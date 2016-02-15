@@ -1,0 +1,8 @@
+# Introduction #
+
+This page lists aims of musicsheet project.
+
+# Aims of project #
+
+  * Project will support Turkish Music Notation (more...)
+  * Import file format will be <a href='http://www.musicxml.org/xml.html'>MusicXML™ 2.0</a> firstly. Support for several file formats can be include project in the future.

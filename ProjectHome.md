@@ -1,0 +1,1 @@
+This project aims showing automatically generated musical sheets within webpages using Javascript and vectoral graphic formats(SVG, VML). The Javascript application will read MusicXML formatted file and render musical sheets of these files to show it within web pages.
